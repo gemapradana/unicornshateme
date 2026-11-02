@@ -1,6 +1,7 @@
-Hi. My name's Crucible. This is a practice repository.<br> The loaded examples (which I mention, is this repository) are not up to avail to use or fork. <br>
+Hi. My name's Crucible. This is a practice repository.<br> The loaded examples (which I mention, is this repository) aren't available to fork or use. <br>
 Do you like stories? I like stories too. See that triangle? Click it for one of my favorite stories. <br><br>
-If you like Sherlock Holmes (1887), or maybe fourth-wall-considered stories, well.. <br> I doubt it'd be your favorite, I mean somehow. <br>
+If you like Sherlock Holmes (1887), <br>or maybe fourth-wall-breaking-considered (alias, metafictional called) stories, well.. <br> I doubt it'd be your favorite, I mean somehow. <br>Somewhat, to a limited degree..
+Right now, namely today -- tomorrow, overmorrow, and lo...<br>
 <br> Aside from all this mess, enjoy!
 
 
